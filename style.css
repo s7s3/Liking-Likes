@@ -1,0 +1,32 @@
+.main{
+    border: solid black;
+    
+    max-width: 35%;
+    width: 700px;
+}
+
+.btn{
+    width: 80px;
+    background-color: #ffd966;
+    color: black;
+    margin-top: 15px;
+    box-shadow:1px 5px 5px 1px black;
+}
+.up{
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.down{
+    margin-bottom: 10px;
+    text-align: center;
+}
+div h2{
+    margin-left: 10px;
+
+}
+body{
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+}
